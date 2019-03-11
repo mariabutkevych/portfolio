@@ -1,0 +1,12 @@
+// Reset styles
+@import 'reset.scss';
+//Fonts
+@import 'fonts.scss';
+//Variables
+@import 'vars.scss';
+//UI Kit
+@import "vendor/uikit/variables-theme.scss";
+@import "vendor/uikit/mixins-theme.scss";
+@import "vendor/uikit/uikit-theme.scss";
+//Custom styles
+@import 'custom.scss';
